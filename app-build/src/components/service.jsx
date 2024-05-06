@@ -9,23 +9,27 @@ const ServiceSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {/* Service Card 1 */}
           <div className="p-6 bg-white rounded-lg shadow-xl">
-            <h3 className="text-lg font-semibold text-gray-800 mb-4">Service 1</h3>
-            <p className="text-gray-600">Description of Service 1 goes here...</p>
+            <h3 className="text-lg font-semibold text-gray-800 mb-4">Renovation & Remodeling</h3>
+            <p className="text-gray-600">Transform your space with our renovation and remodeling services, 
+            tailored to meet your needs and exceed your expectations.</p>
           </div>
           {/* Service Card 2 */}
           <div className="p-6 bg-white rounded-lg shadow-xl">
-            <h3 className="text-lg font-semibold text-gray-800 mb-4">Service 2</h3>
-            <p className="text-gray-600">Description of Service 2 goes here...</p>
+            <h3 className="text-lg font-semibold text-gray-800 mb-4">Interior Design</h3>
+            <p className="text-gray-600">Elevate your interiors with our innovative design solutions, 
+            creating spaces that are both functional and aesthetically pleasing.</p>
           </div>
           {/* Service Card 3 */}
           <div className="p-6 bg-white rounded-lg shadow-xl">
-            <h3 className="text-lg font-semibold text-gray-800 mb-4">Service 3</h3>
-            <p className="text-gray-600">Description of Service 3 goes here...</p>
+            <h3 className="text-lg font-semibold text-gray-800 mb-4">Project Management</h3>
+            <p className="text-gray-600">Our experienced project managers oversee every detail, ensuring efficient execution and timely 
+            delivery of your construction project</p>
           </div>
           {/* Service Card 4 */}
           <div className="p-6 bg-white rounded-lg shadow-xl">
-            <h3 className="text-lg font-semibold text-gray-800 mb-4">Service 4</h3>
-            <p className="text-gray-600">Description of Service 4 goes here...</p>
+            <h3 className="text-lg font-semibold text-gray-800 mb-4">Consultation & Planning</h3>
+            <p className="text-gray-600">We offer comprehensive consultation and planning services to ensure the
+             success of your project from concept to completion</p>
           </div>
         </div>
       </div>

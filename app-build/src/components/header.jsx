@@ -7,7 +7,7 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <img src="/logo.jpeg" alt="Logo" className="h-8 w-8" />
-          <div className="text-white text-lg font-bold">Construction Co.</div>
+          <div className="text-white text-lg font-bold">Starmas Construction.</div>
         </div>
         {/* Navigation */}
         <nav className="space-x-4">
